@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fundamentals2016", "..\Fundamentals2016\Fundamentals2016.csproj", "{231F0A15-1FBF-4A87-B8DB-22E7714A7F2D}"
 EndProject
@@ -18,8 +18,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "..\ExtensionMethods\ExtensionMethods.csproj", "{6FF719F5-8CF5-49B5-B6BA-4372CEC6C337}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynchronousProgramming", "..\AsynchronousProgramming\AsynchronousProgramming.csproj", "{C9F3C918-AD77-4969-B9DD-930185EAAFA4}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyHomework", "MyHomework\MyHomework.csproj", "{2363B2D2-9F8C-4049-92A6-641E18B9DCC1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -89,14 +87,6 @@ Global
 		{C9F3C918-AD77-4969-B9DD-930185EAAFA4}.Release|Any CPU.ActiveCfg = Release|x86
 		{C9F3C918-AD77-4969-B9DD-930185EAAFA4}.Release|x86.ActiveCfg = Release|x86
 		{C9F3C918-AD77-4969-B9DD-930185EAAFA4}.Release|x86.Build.0 = Release|x86
-		{2363B2D2-9F8C-4049-92A6-641E18B9DCC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2363B2D2-9F8C-4049-92A6-641E18B9DCC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2363B2D2-9F8C-4049-92A6-641E18B9DCC1}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{2363B2D2-9F8C-4049-92A6-641E18B9DCC1}.Debug|x86.Build.0 = Debug|Any CPU
-		{2363B2D2-9F8C-4049-92A6-641E18B9DCC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2363B2D2-9F8C-4049-92A6-641E18B9DCC1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2363B2D2-9F8C-4049-92A6-641E18B9DCC1}.Release|x86.ActiveCfg = Release|Any CPU
-		{2363B2D2-9F8C-4049-92A6-641E18B9DCC1}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
